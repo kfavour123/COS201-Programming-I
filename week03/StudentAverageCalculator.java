@@ -16,6 +16,9 @@ public class AverageCalculator {
         System.out.println("Student: " + name);
         System.out.printf("Total: %.2f%n", total);
         System.out.printf("Average Score: %.2f%n", average);
+        
     }
        
 }
+
+// done
